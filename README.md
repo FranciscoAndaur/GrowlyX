@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I am **GrowlyX!**  
+### I am **devGrowly!**  
 
-I am a Java Developer & I work for SnowPeak Development!
+Java Developer working for SnowPeak Development & SnowPeak Network.
 
 - 🔭 I’m currently working on the SnowPeak Network!
-- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Java Plugins!
 - 💬 Ask me about myself!
 - 📫 How to reach me: Discord: GrowlyX#4953

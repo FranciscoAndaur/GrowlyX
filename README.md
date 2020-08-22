@@ -10,7 +10,7 @@ I am a Java Developer & I work for SnowPeak Development!
 - 💬 Ask me about myself!
 - 📫 How to reach me: Discord: GrowlyX#4953
 
-Discord: **http://invite.gg/devgrowly**⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Discord: **http://invite.gg/devgrowly**
 SnowPeak: **http://invite.gg/snowpeak**
 
 **Please note: Most of my large projects are private projects, and are for large networks.**

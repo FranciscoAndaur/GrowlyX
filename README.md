@@ -2,7 +2,7 @@
 
 I am **GrowlyX!**  
 
-I am a student learning Java, and web development!
+I am a Java Developer & I work for SnowPeak Development!
 
 - 🔭 I’m currently working on the PVPX Network and the ImpulseMC Network!
 - 🌱 I’m currently learning Java

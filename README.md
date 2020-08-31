@@ -2,7 +2,7 @@
 
 ### I am **devGrowly!**  
 
-Java Developer working for SnowPeak Development & SnowPeak Network.
+Java Developer working for EventMC!
 
 - 🔭 I’m currently working on the SnowPeak Network!
 - 👯 I’m looking to collaborate on Java Plugins!

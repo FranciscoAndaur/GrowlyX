@@ -10,8 +10,8 @@ Java Developer working for EventMC!
 - 📫 How to reach me: Discord: GrowlyX#4953
 
 Discord: **https://discord.growlyx.me**
-SnowPeak: **https://invite.gg/snowpeak**
 
+-
 ### Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GrowlyX)](https://github.com/anuraghazra/github-readme-stats)

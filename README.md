@@ -1,15 +1,14 @@
 ### Hi there 👋
-
+---
 ### I am **devGrowly!**  
+---
 
-Java Developer working for HCMatrix!
+Java Developer working for SolexGames!
 
-- 🔭 I’m currently working on the HCMatrix Network!
-- 👯 I’m looking to collaborate on Java Plugins!
-- 💬 Ask me about myself!
+- 🔭 I’m currently working on SolexGames!
 - 📫 How to reach me: Discord: GrowlyX#4953
 
-Discord: **https://discord.growlyx.me**
+SolexGames: **https://discord.gg/Ru7FWxs**
 
 ### Stats
 

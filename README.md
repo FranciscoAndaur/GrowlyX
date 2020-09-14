@@ -1,7 +1,6 @@
 ### Hi there 👋
 ---
-### I am **devGrowly!**  
----
+### I am **GrowlyX!**  
 
 Java Developer working for SolexGames!
 

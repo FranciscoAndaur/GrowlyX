@@ -10,8 +10,10 @@ Java Developer working for SolexGames!
 SolexGames: **https://discord.gg/Ru7FWxs**
 
 ### Stats
+---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GrowlyX)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Please note: Most of my large projects are private projects, and are for large networks.**
+---

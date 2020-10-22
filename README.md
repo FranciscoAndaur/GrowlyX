@@ -1,7 +1,6 @@
-# GrowlyX - Java Developer
+# GrowlyX
 
 @SolexGames
 @UHCZone
 
-**Note: I do private work.**
----
+## Note: I do private work.

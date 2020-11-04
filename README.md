@@ -1,6 +1,8 @@
-# GrowlyX
+# Hey, I'm GrowlyX
+- Working on SolexGames
+- Working on SolexClient
+- Working with my best friends 
 
-@SolexGames
-@UHCZone
-
-## Note: I do private work.
+## Twitter: @growlyxmc
+## Telegram: @devGrowly
+## Discord: GrowlyX#4953

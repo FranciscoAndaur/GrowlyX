@@ -1,7 +1,1 @@
-# Hey, I'm GrowlyX
-- Working on SolexGames
-- Working on SolexClient
-
-- Twitter: @growlyxmc
-- Telegram: @devGrowly
-- Discord: GrowlyX#4953
+[![Growly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GrowlyX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

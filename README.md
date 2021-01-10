@@ -1,1 +1,1 @@
-[![GrowlyX's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=GrowlyX)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub metrics](https://metrics.lecoq.io/GrowlyX?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York)
